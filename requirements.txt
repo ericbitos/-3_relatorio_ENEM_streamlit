@@ -3,5 +3,5 @@ pandas
 matplotlib
 streamlit
 plotly
-psycopg2
+psycopg2-binary
 
